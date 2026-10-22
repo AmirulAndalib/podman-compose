@@ -14,7 +14,7 @@ cachetools==5.3.3
 chardet==5.2.0
 colorama==0.4.6
 distlib==0.3.8
-filelock==3.13.1
+filelock==3.20.3
 iniconfig==2.0.0
 packaging==23.2
 platformdirs==4.2.0
@@ -22,4 +22,4 @@ pluggy==1.4.0
 pyproject-api==1.6.1
 python-dotenv==1.0.1
 PyYAML==6.0.1
-virtualenv==20.25.1
+virtualenv==21.14.9
